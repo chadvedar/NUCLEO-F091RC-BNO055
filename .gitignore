@@ -1,0 +1,12 @@
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+
+compile_commands.json
+.clangd
+.cache
+BNO055
+BNO055_from_Bosch
