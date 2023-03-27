@@ -3,7 +3,7 @@
 #include <cstdint>
 
 // main() runs in its own thread in the OS
-BNO055 imu(D4, D5);
+BNO055 imu(D14, D15);
 
 int main()
 {
